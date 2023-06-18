@@ -1,4 +1,3 @@
-### Hi there 👋
 ![logo](https://github.com/LakshayDhoundiyal/LakshayDhoundiyal/blob/main/banner.png)
 
 <h1 align="center">I'm Lakshay Dhoundiyal</h1>
@@ -18,7 +17,7 @@
 
 - 📫 How to reach me **lakshay22dhoundiyal@gmail.com**
 
-- 📄 Know about my experiences [https://lakshaydhoundiyalwebsite.netlify.app/Internships%20Document.pdf](https://lakshaydhoundiyalwebsite.netlify.app/Internships%20Document.pdf)
+- 📄 Know about my experiences [https://lakshaydhoundiyalwebsite.netlify.app/Internships%20Document.pdf](https://shorturl.at/yCFH1)
 
 - ⚡ Hobby **I love to play Chess**
 
