@@ -1,7 +1,7 @@
 ![logo](https://github.com/LakshayDhoundiyal/LakshayDhoundiyal/blob/main/banner.png)
 
 <h1 align="center">I'm Lakshay Dhoundiyal</h1>
-<h3 align="center">A Cyber Security Enthusiast</h3>
+<h3 align="center">Ethical Hacker & Web Developer</h3>
 
 <img align="right" alt="coding" width="410" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
