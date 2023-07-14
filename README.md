@@ -3,7 +3,7 @@
 <h1 align="center">I'm Lakshay Dhoundiyal</h1>
 <h3 align="center">Ethical Hacker & Web Developer</h3>
 
-<img align="right" alt="coding" width="410" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="coding" width="410" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaydhoundiyal" /> </p>
 
