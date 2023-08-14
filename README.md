@@ -17,7 +17,7 @@
 
 - 📫 Reach me through Email : **lakshay22dhoundiyal@gmail.com**
 
-- 📄 Know about my Experience : [Click Here](https://shorturl.at/yCFH1)
+- 📄 Know about my Experience : [Click Here](https://lakshaydhoundiyalportfolio.netlify.app/Internships%20(Lakshay).pdf)
 
 - ⚡ Hobby : **I love to play Chess**
 
