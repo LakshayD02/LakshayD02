@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my Projects are available at : [My Portfolio](https://lakshaydhoundiyalwebsite.netlify.app/)
 
-- 📝 I regularly write Articles on : [My Blogspot](https://anonymousethicalhacker02.blogspot.com/)
+- 📝 I regularly write Articles on : [My Blogspot](https://hackersinsight.blogspot.com/)
 
 - 📫 Reach me through Email : **lakshay22dhoundiyal@gmail.com**
 
