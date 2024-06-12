@@ -1,4 +1,4 @@
-![logo](https://github.com/LakshayDhoundiyal/LakshayDhoundiyal/blob/main/banner.png)
+![logo](https://github.com/LakshayDhoundiyal/LakshayDhoundiyal/blob/main/Banner.png)
 
 <h1 align="center">I'm Lakshay Dhoundiyal</h1>
 <h3 align="center">Ethical Hacker & Web Developer</h3>
