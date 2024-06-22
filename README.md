@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning : **WordPress and MERN**
 
-- 👨‍💻 All of my Projects are available at : [My Portfolio](https://lakshaydhoundiyalwebsite.netlify.app/)
+- 👨‍💻 All of my Projects are available at : [My Portfolio](https://lakshaydhoundiyal.cloud)
 
 - 📝 I regularly write Articles on : [My Blogspot](https://hackersinsight.blogspot.com/)
 
 - 📫 Reach me through Email : **lakshay22dhoundiyal@gmail.com**
 
-- 📄 Know about my Experience : [Click Here](https://lakshaydhoundiyalportfolio.netlify.app/Internships%20(Lakshay).pdf)
+- 📄 Know about my Experience : [Click Here](https://lakshaydhoundiyalportfolio.netlify.app/Internships_Lakshay.pdf)
 
 - ⚡ Hobby : **I love to play Chess**
 
