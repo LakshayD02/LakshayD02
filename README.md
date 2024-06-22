@@ -3,6 +3,8 @@
 <h1 align="center">I'm Lakshay Dhoundiyal</h1>
 <h3 align="center">Ethical Hacker & Web Developer</h3>
 
+<a href="https://app.daily.dev/lakshaydhoundiyal"><img src="https://api.daily.dev/devcards/v2/F2MI9DJ2ouuB8dZ7hyT3T.png?type=default&r=wq0" width="356" alt="Lakshay Dhoundiyal's Dev Card"/></a>
+
 <img align="right" alt="coding" width="410" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaydhoundiyal" /> </p>
