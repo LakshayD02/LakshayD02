@@ -4,7 +4,7 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Devloper;+Ethical+Hacker;+Pentester;+IBR+Holder;SEO+Expert;+Blogger;+Content+Writer;&center=true&size=33">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Devloper;+Ethical+Hacker;+Pentester;+IBR+Holder;SEO+Expert;+Blogger;+Content+Writer;&center=true&size=31">
   </a>
 </h1>
 
@@ -48,7 +48,7 @@
 
 ### My GitHub Activity
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br /><br /><br />
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
 
 <!-- show more repos -->
 <h4 align="center">
