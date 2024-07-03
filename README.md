@@ -41,5 +41,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LakshayD02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### My GitHub Activity
+
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true)]()
+
 ## My Daily.dev Card
 <a align="center" href="https://app.daily.dev/lakshaydhoundiyal"><img src="https://api.daily.dev/devcards/v2/F2MI9DJ2ouuB8dZ7hyT3T.png?type=default&r=wq0" width="356" align="center" alt="Lakshay Dhoundiyal's Dev Card"/></a>
