@@ -12,17 +12,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaydhoundiyal" /> </p>
 
-- 🔭 I’m currently Working on **Backend Development**
+- 🔭 I’m currently Working on **Python and JavaScript**
 
-- 🌱 I’m currently learning : **WordPress and MERN**
+- 🌱 I’m currently learning : **MERN and Automation Testing**
 
 - 👨‍💻 All of my Projects are available at : [My Portfolio](https://lakshaydhoundiyal.cloud)
 
-- 📝 I regularly write Articles on : [My Blogspot](https://hackersinsight.blogspot.com/)
+- 📝 I regularly write Articles on : [Hashnode](https://lakshaydhoundiyal.hashnode.dev/)
 
-- 📫 Reach me through Email : **lakshay22dhoundiyal@gmail.com**
+- 📫 Reach me through Email : **lakshaydhoundiyal@gmail04.com**
 
-- 📄 Know about my Experience : [Click Here](https://lakshaydhoundiyalportfolio.netlify.app/Internships_Lakshay.pdf)
+- 📄 Know about my Experience : [Click Here](https://lakshay-experience-info.netlify.app/)
 
 - ⚡ Hobby : **I love to play Chess**
 
