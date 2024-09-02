@@ -20,7 +20,7 @@
 
 - 📝 I regularly write Articles on : [Hashnode](https://lakshaydhoundiyal.hashnode.dev/)
 
-- 📫 Reach me through Email : **lakshaydhoundiyal@gmail04.com**
+- 📫 Reach me through Email : **lakshaydhoundiyal04@gmail.com**
 
 - 📄 Know about my Experience : [Click Here](https://lakshay-experience-info.netlify.app/)
 
