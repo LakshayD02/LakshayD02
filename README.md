@@ -40,14 +40,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LakshayD02&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
+## TryHackMe Stats
+<img src="https://tryhackme-badges.s3.amazonaws.com/lakshaydhoundiyal04.png" alt="Your Image Badge" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LakshayD02&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
-### My GitHub Activity
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
 
+### My GitHub Activity
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
 
 <!-- show more repos -->
