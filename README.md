@@ -20,7 +20,7 @@
 
 - 📝 I regularly write Articles on : [Hashnode](https://lakshaydhoundiyal.hashnode.dev/)
 
-- 📫 Reach me through Email : **lakshaydhoundiyal04@gmail.com**
+- 📫 Reach me through Email : **lakshaydhoundiyal0@gmail.com**
 
 - 📄 Know about my Experience : [Click Here](https://lakshay-internships.vercel.app/)
 
@@ -186,7 +186,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://raw.githubusercontent.com/LakshayD02/LakshayD02/output/snake.svg" alt="Snake animation" />
+![](<img src="https://raw.githubusercontent.com/LakshayD02/LakshayD02/output/snake.svg" alt="Snake animation"/>)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=LakshayD02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LakshayD02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayD02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
