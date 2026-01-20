@@ -187,6 +187,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
 
+<br/>
+
 # 📊 GitHub Stats:
 
 <img src="https://raw.githubusercontent.com/LakshayD02/LakshayD02/output/snake.svg" alt="Snake animation"/><br/>
@@ -195,11 +197,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LakshayD02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayD02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LakshayD02&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
+<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
+
+<br/>
 
 ### My GitHub Activity
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
@@ -209,5 +217,5 @@
   <a href="https://github.com/LakshayD02?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> <br />
 
-## My Daily.dev Card
+# Daily.dev Card
 <a align="center" href="https://app.daily.dev/lakshaydhoundiyal"><img src="https://api.daily.dev/devcards/v2/F2MI9DJ2ouuB8dZ7hyT3T.png?type=default&r=wq0" width="356" align="center" alt="Lakshay Dhoundiyal's Dev Card"/></a>
