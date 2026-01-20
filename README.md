@@ -26,7 +26,7 @@
 
 - ⚡ Hobby : **I love to play Chess**
 
-<br/><br/><br/>
+<br/>
 
 # 🌐 Socials: 
 <div align="left">
@@ -47,7 +47,7 @@
 </a>  
 </div>
 
-<br/><br/>
+<br/>
 
 # 💻 Tech Stack:
 
@@ -186,8 +186,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
-
-<br/><br/>
 
 # 📊 GitHub Stats:
 
