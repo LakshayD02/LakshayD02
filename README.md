@@ -199,17 +199,17 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LakshayD02&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
 
 <br/>
 
-### My GitHub Activity
+# My GitHub Activity
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
 
 <!-- show more repos -->
