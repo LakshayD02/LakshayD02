@@ -1,4 +1,4 @@
-![logo](https://github.com/LakshayD02/LakshayD02/blob/0b0661f2b89d4146e7637e03d6e5844219b70c05/LinkedIn%20Banner.png)
+![logo](https://github.com/LakshayD02/LakshayD02/blob/5d8a98d8d06548fe30d8df03f6d3e79b7f957f22/Banner.png)
 
 <h1 align="center">I'm Lakshay Dhoundiyal</h1>
 <!-- introduction -->
