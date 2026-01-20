@@ -186,7 +186,8 @@
 
 # 📊 GitHub Stats:
 
-![](<img src="https://raw.githubusercontent.com/LakshayD02/LakshayD02/output/snake.svg" alt="Snake animation"/>)<br/>
+<img src="https://raw.githubusercontent.com/LakshayD02/LakshayD02/output/snake.svg" alt="Snake animation"/><br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=LakshayD02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LakshayD02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayD02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
