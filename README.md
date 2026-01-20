@@ -26,6 +26,7 @@
 
 - ⚡ Hobby : **I love to play Chess**
 
+<br/><br/><br/>
 
 # 🌐 Socials: 
 <div align="left">
@@ -45,6 +46,8 @@
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+<br/><br/>
 
 # 💻 Tech Stack:
 
@@ -183,6 +186,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
+
+<br/><br/>
 
 # 📊 GitHub Stats:
 
