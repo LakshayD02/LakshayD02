@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning : **Offensive Security**
 
-- 👨‍💻 All of my Projects are available at : [My Portfolio](https://lakshaydhoundiyal.cloud)
+- 👨‍💻 All of my Projects are available at : [My Portfolio](https://lakshay-3d-website.netlify.app)
 
-- 📝 I regularly write Articles on : [Hashnode](https://lakshaydhoundiyal.hashnode.dev/)
+- 📝 I regularly write Articles on : [Hashnode](https://hashnode.com/@LakshayDhoundiyal)
 
 - 📫 Reach me through Email : **lakshaydhoundiyal0@gmail.com**
 
