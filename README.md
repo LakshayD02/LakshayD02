@@ -22,7 +22,7 @@
 
 - 📫 Reach me through Email : **lakshaydhoundiyal0@gmail.com**
 
-- 📄 Know about my Experience : [Click Here](https://lakshay-internships.vercel.app/)
+- 📄 Know about my Experience : [Click Here](https://lakshayd-internships.vercel.app/)
 
 - ⚡ Hobby : **I love to play Chess**
 
